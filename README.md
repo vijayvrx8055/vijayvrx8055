@@ -2,10 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="My GitHub Stats" />
  <h2 align="center">My GitHub Stats</h2>
 </p>
-<p>
-  <a href="https://github.com/vijayvrx8055/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/vijayvrx8055/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+<p align="center"> 
     <a href="https://github.com/vijayvrx8055/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vijayvrx8055/github-readme-stats" />
     </a>
