@@ -1,7 +1,7 @@
-### Hi there 👋!! I am Vijay Kumar.
+### Hi there 👋  #006600 !! I am Vijay Kumar !! #006600
 
 
-Here are some ideas to get you started:
+ABOUT ME
 
 - 🔭 I’m currently working on spring related microservices
 - 🌱 I’m currently learning Kotlin
