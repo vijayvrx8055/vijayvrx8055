@@ -1,22 +1,8 @@
 ### Hi there 👋  
 I AM 
-Now since May 2022, Github can accept LATEX code on Markdown, so you can use the \color{namecolor} inside the $$$$ Block, like the example below:
 
-Basic
-Code	Appearing
-$${\color{red}Red}$$	$${\color{red}Red}$$
-$${\color{green}Green}$$	$${\color{green}Green}$$
-$${\color{lightgreen}Light \space Green}$$	$${\color{lightgreen}Light \space Green}$$
-$${\color{blue}Blue}$$	$${\color{blue}Blue}$$
-$${\color{lightblue}Light \space Blue}$$	$${\color{lightblue}Light \space Blue}$$
-$${\color{black}Black}$$	$${\color{black}Black}$$
-$${\color{white}White}$$	$${\color{white}White}$$
-More than one color
-Code
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-Visualization
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-<img height="32" width="32" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vimeo.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/indeed.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/joplin.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/astro.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/payoneer.svg" />
+$${\color{red}<img height="32" width="32" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vimeo.svg" /> \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/indeed.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/joplin.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/astro.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/payoneer.svg" />
 
 
 
