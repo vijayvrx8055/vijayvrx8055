@@ -7,7 +7,7 @@
       <img alt="Tests Passing" src="https://github.com/vijayvrx8055/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/vijayvrx8055/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/vijayvrx8055/anuraghazra/github-readme-stats" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vijayvrx8055/github-readme-stats" />
     </a>
     <a href="https://codecov.io/gh/vijayvrx8055/github-readme-stats">
       <img src="https://codecov.io/gh/vijayvrx8055/github-readme-stats/branch/master/graph/badge.svg" />
