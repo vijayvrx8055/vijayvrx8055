@@ -1,3 +1,6 @@
+![google](https://user-images.githubusercontent.com/000/000-aaa.svg)
+<img height="100px" src="https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/>
+
 ### Hi there 👋  
 I AM <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
     <text x="0" y="15" fill="#4285f4">V</text>
