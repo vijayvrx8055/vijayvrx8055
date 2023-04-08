@@ -16,12 +16,10 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vijayvrx8055/github-readme-stats?color=0088ff" />
     </a>
  </p>
-### Hi there 👋  
-
-$${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$
-
-
-
+ 
+ $${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$
+ 
+ ### Hi there 👋  
 
 ABOUT ME
 
@@ -34,5 +32,3 @@ ABOUT ME
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can draw and want to improve it even further..
 
-
-https://github-readme-stats.vercel.app/api?username=vijayvrx8055&show_icons=true&theme=radical
