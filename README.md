@@ -1,4 +1,6 @@
-### Hi there 👋  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/4chan.svg" /> !! I am Vijay Kumar !! <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/4chan.svg" />
+### Hi there 👋  
+I AM <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vimeo.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/vimeo.svg" />
 
 
 ABOUT ME
