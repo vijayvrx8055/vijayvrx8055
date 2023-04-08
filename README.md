@@ -1,7 +1,5 @@
 ### Hi there 👋!! I am Vijay Kumar.
 
-<!--
-**vijayvrx8055/vijayvrx8055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vijay.kumar.vrx@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can draw and want to improve it even further..
--->
+
