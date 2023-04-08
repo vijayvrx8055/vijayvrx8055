@@ -14,3 +14,5 @@ ABOUT ME
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can draw and want to improve it even further..
 
+
+https://github-readme-stats.vercel.app/api?username=vijayvrx8055&show_icons=true&theme=radical
