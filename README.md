@@ -1,8 +1,6 @@
 ### Hi there 👋  
-I AM 
+I AM $${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$
 
-$${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/indeed.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/joplin.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/astro.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/payoneer.svg" />
 
 
 
