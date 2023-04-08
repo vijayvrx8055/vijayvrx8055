@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I AM <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vimeo.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/indeed.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/joplin.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/astro.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/payoneer.svg" />
+I AM <img height="32" width="32" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vimeo.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/indeed.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/joplin.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/astro.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/payoneer.svg" />
 
 
 
