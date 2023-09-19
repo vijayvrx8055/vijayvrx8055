@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24090007&psig=AOvVaw0O6FyNSgLAbeW1ck5b9hqi&ust=1695228031272000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi_yZrWjreBAxVXfWwGHSDhAfoQjRx6BAgAEAw"
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24090007&psig=AOvVaw0O6FyNSgLAbeW1ck5b9hqi&ust=1695228031272000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi_yZrWjreBAxVXfWwGHSDhAfoQjRx6BAgAEAw](https://tenor.com/bNe4F.gif)"
  align="right" width="400" alt="coding"/>
 
 - 🔭 I’m currently working on [design-patterns](https://github.com/vijayvrx8055/design-patterns)
