@@ -1,13 +1,11 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="My GitHub Stats" />
- <h2 align="center">My GitHub Stats</h2>
-</p>
+![logo](https://github.com/vijayvrx8055/vijayvrx8055/blob/main/Vijay%20Kumar%20(1).png)
  
- $${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$
- 
-<h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
+<h1 align="center">Hi 👋, I'm  $${\color{red}V \space \color{lightblue}I \space \color{orange}J \space \color{yellow}A \space \color{white}Y}$$</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
+<p align="center">
+ <h2 align="center">My GitHub Stats</h2>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayvrx8055&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvrx8055" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayvrx8055" alt="vijayvrx8055" /></a> </p>
