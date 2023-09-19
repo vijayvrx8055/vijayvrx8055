@@ -14,8 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://tenor.com/view/coding-gif-24090007.gif"
- align="right" width="400" alt="coding"/>
+<img src="https://tenor.com/view/coding-gif-24090007.gif" align="right" width="400" alt="coding"/>
 
 - 🔭 I’m currently working on [design-patterns](https://github.com/vijayvrx8055/design-patterns)
 
