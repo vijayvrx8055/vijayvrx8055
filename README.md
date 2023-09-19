@@ -13,8 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayvrx8055" alt="vijayvrx8055" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="right"><img src="![coding](https://github.com/vijayvrx8055/vijayvrx8055/assets/118923157/ba316206-a202-4e80-856d-b1621ad5e389)" /> 
- </p>
+
 
 
 - 🔭 I’m currently working on [design-patterns](https://github.com/vijayvrx8055/design-patterns)
