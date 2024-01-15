@@ -5,13 +5,6 @@
 
 # 💫 About Me :
 <p>
- 
-- 🔭 I’m currently working on [design-patterns](https://github.com/vijayvrx8055/design-patterns)
-
-- 🌱 I’m currently learning **Kotlin, Node.js**
-
-- 🤔 I’m looking for help with **microservices documentation**
-
 - 💬 Ask me about **Java, Spring related stuffs**
 
 - 📫 How to reach me **vijay.kumar.vrx@gmail.com**
